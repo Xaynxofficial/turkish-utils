@@ -1,5 +1,8 @@
 {
-  "name": "turkish-utils",
+  "name": "@xaynx/turkish-utils",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "version": "3.0.0",
   "description": "Türkiye'ye özel utility fonksiyonları - TC kimlik doğrulama, IBAN, plaka kodları, para formatı ve daha fazlası",
   "type": "module",
@@ -40,6 +43,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/turkish-utils.git"
+    "url": "https://github.com/Xaynxofficial/turkish-utils.git"
   }
 }
