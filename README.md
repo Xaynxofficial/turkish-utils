@@ -201,6 +201,21 @@ turkishUtils.slugify('Merhaba Dünya'); // 'merhaba-dunya'
 npm test
 ```
 
+## ⚠️ Yasal Uyarı
+
+Bu kütüphane **sadece doğrulama ve format kontrolü** amaçlıdır. 
+
+**Önemli Notlar:**
+- Gerçek kimlik doğrulama yapmaz
+- Kişisel veri saklamaz
+- Test amaçlı veri oluşturur
+- Sadece format kontrolü yapar
+
+**Kullanım Sorumluluğu:**
+- Kişisel verilerin korunması kullanıcının sorumluluğundadır
+- KVKK ve GDPR uyumluluğu kullanıcıya aittir
+- Üretim ortamında dikkatli kullanın
+
 ## 📄 Lisans
 
 MIT
