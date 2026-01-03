@@ -218,7 +218,7 @@ Bu kütüphane **sadece doğrulama ve format kontrolü** amaçlıdır.
 
 ## 📄 Lisans
 
-MIT
+[MIT License](LICENSE) - Özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz.
 
 ## 🤝 Katkıda Bulunma
 

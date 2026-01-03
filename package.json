@@ -27,7 +27,7 @@
     "türkiye",
     "türkçe"
   ],
-  "author": "Your Name",
+  "author": "Xaynx <xaynxofficial@example.com>",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.5",
